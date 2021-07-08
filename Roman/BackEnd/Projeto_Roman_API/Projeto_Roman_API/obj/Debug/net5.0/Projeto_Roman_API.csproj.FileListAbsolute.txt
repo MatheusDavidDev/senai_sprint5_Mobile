@@ -1,0 +1,138 @@
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\appsettings.Development.json
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\appsettings.json
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.exe
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.deps.json
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.runtimeconfig.json
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.runtimeconfig.dev.json
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\ref\Projeto_Roman_API.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Humanizer.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csprojAssemblyReference.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.AssemblyInfoInputs.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.AssemblyInfo.cs
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csproj.CoreCompileInputs.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\staticwebassets\Projeto_Roman_API.StaticWebAssets.Manifest.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\staticwebassets\Projeto_Roman_API.StaticWebAssets.xml
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\scopedcss\bundle\Projeto_Roman_API.styles.css
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.RazorTargetAssemblyInfo.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csproj.CopyComplete
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\ref\Projeto_Roman_API.dll
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.pdb
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.genruntimeconfig.cache
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.xml
+D:\PROGRAMACAO\Roman\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\ref\Projeto_Roman_API.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Projeto_Roman_API.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\staticwebassets\Projeto_Roman_API.StaticWebAssets.Manifest.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\staticwebassets\Projeto_Roman_API.StaticWebAssets.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\scopedcss\bundle\Projeto_Roman_API.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.RazorTargetAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\ref\Projeto_Roman_API.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projeto_Roman\BackEnd\Projeto_Roman_API\Projeto_Roman_API\obj\Debug\net5.0\Projeto_Roman_API.genruntimeconfig.cache
